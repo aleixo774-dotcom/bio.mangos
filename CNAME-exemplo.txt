@@ -1,0 +1,4 @@
+bio.mangosassessoria.com.br
+
+Se for usar GitHub Pages com domínio personalizado, renomeie este arquivo para CNAME e deixe somente a linha acima.
+Antes, confirme que o DNS do subdomínio já está apontado corretamente.
